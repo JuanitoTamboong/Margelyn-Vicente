@@ -1,0 +1,41 @@
+.message h2{
+text-align: center;
+}
+.message h5{
+    text-align: center;
+    color: #fff;
+    text-shadow: 1px 2px 3px #000;
+}
+a{
+    text-decoration: none;
+    color: #fff;
+}
+.gift img{
+ height: 200px;
+ width: 300px;
+ clip-path: none;
+}
+.button-left{
+    padding: 12px;
+    display: inline-block;   
+    margin-top: 12px;
+    background: #C850C0;
+    border-radius: 5px;
+  
+}
+.button-left:hover{
+    box-shadow: 1px 2px 10px #000 ;
+    text-shadow: 1px 2px 3px #000;
+}
+.button-right{
+    display: inline-block;
+    float: right;
+    padding: 12px;
+    margin-top: 12px;
+    background: #C850C0;
+    border-radius: 5px;
+}
+.button-right:hover{
+    box-shadow: 1px 2px 10px #000;
+    text-shadow: 1px 2px 3px #000;
+}
